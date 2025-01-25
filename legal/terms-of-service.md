@@ -1,6 +1,4 @@
-# Terms 
 LU[01/24/2025]
-Welcome to Wovver. By using our platform, you agree to abide by the following Terms of Service. If you do not agree, please refrain from using our services.
 
 ## 1. **General Rules**
 
